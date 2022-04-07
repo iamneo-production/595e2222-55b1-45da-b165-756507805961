@@ -35,7 +35,7 @@
 }
 .main-div .form{
     box-sizing: border-box;
-    background-image: url(/music.png);
+    background-image: url(/src/music.png);
     width: 90%;
     overflow: hidden;
     margin: 20px auto;
